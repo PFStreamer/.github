@@ -15,7 +15,7 @@ Install pstreamer repo (el7):
 ```
 $ sudo yum-config-manager --add-repo=http://repo.pstreamer.tv/pub/pstreamer/pstreamer.repo
 ```
-OR el8:
+or el8:
 ```
 $ sudo yum config-manager --add-repo=http://repo.pstreamer.tv/pub/pstreamer/pstreamer.repo
 ```
