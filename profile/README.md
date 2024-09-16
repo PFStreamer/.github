@@ -41,6 +41,8 @@ Complete remove:
 ```
 $ sudo apt-get remove pstreamer aksusbd
 ```
+### After the installation
+
 Files:
 ```
 /usr/local/bin/pss - pstreamer binary file
@@ -58,7 +60,7 @@ After install new package use default web access:
 * login: admin
 * password: admin
 
-Service manipulation:
+Service manipulations:
 ```
 $ systemctl stop pss
 $ systemctl start pss
