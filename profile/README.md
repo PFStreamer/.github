@@ -5,6 +5,8 @@ It uses proprietary protocol Perfect Stream that ensures reliable and stable vid
 
 Also, standard transport protocols Pro-MPEG, SRT and RIST are supported. This allows to organize channels both via Perfect Streamer® and other software or hardware supporting the protocols.
 
+Transcoder supporting Nvidia Encoder and Software CPU methods.
+
 You can find our site [here](https://pstreamer.tv) or read [documentation](http://doc.pstreamer.tv/en/index.html).
 
 ## Installation
