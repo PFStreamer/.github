@@ -209,4 +209,7 @@ When choosing each of the CUDA versions, information is available on which OS ve
 
 Nvidia driver must be installed from the repository offered for your OS version, on the page of the selected CUDA version.
 
-Support of Nvidia video cards for the pstreamer-tcnv transcoder functionality can be checked on the Nvidia website in Video Encode and Decode Support Matrix. This page contains a support matrix for decoder and encoder video formats, as well as other characteristics.
+Support of Nvidia video cards for the pstreamer-tcnv transcoder functionality can be checked on the Nvidia website in Video Encode and Decode Support Matrix: 
+https://developer.nvidia.com/video-encode-and-decode-gpu-support-matrix-new
+
+This page contains a support matrix for decoder and encoder video formats, as well as other characteristics.
